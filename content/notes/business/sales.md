@@ -1,0 +1,2 @@
+- [ ]  [Ask HN: Any good essays/books/advice about software sales? | Hacker News](https://news.ycombinator.com/item?id=41693844)
+- [ ] [I'm an engineer that needs to sell my services. Any good books on sales? | Hacker News](https://news.ycombinator.com/item?id=39316653)

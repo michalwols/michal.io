@@ -1,0 +1,2 @@
+- [ ] [CRDTs go brrr](https://josephg.com/blog/crdts-go-brrr/)
+- [ ] [Local-First Conf - YouTube](https://www.youtube.com/@localfirstconf/videos)
