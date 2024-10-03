@@ -32,9 +32,11 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Search(),
+    Component.MobileOnly(Component.Explorer({folderDefaultState: 'collapsed'})),
     Component.DesktopOnly(Component.TableOfContents()),
+
     Component.Backlinks(),
-    Component.Graph(),
+     Component.DesktopOnly(Component.Graph()),
   ],
 }
 

@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-01T23:26:47-04:00
+time_modified: 2024-10-02T15:03:08-04:00
 time_created: 2024-08-23T21:53:43-04:00
 ---
 
@@ -26,6 +26,11 @@ time_created: 2024-08-23T21:53:43-04:00
 	- [[WIP] Testing the lion optimizer by mitchellnw · Pull Request #432 · mlfoundations/open_clip · GitHub](https://github.com/mlfoundations/open_clip/pull/432)
 	- [discuss whether it worked or didn't work · lucidrains/lion-pytorch · Discussion #1 · GitHub](https://github.com/lucidrains/lion-pytorch/discussions/1)
 - [Lion 8 bit by lucidrains · Pull Request #188 · TimDettmers/bitsandbytes · GitHub](https://github.com/TimDettmers/bitsandbytes/pull/188)
+
+
+
+
+
 
 ## Warmup
 
@@ -59,6 +64,12 @@ time_created: 2024-08-23T21:53:43-04:00
 - [GitHub - Facebook/Ax: Adaptive Experimentation Platform](https://github.com/facebook/Ax)
 - [GitHub - pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 - [GitHub - google/vizier: Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.](https://github.com/google/vizier)
+
+## muP
+
+[x.com](https://x.com/AiEleuther/status/1838209774002864330)
+
+
 
 ### Evolutionary
 
