@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-01T22:49:57-04:00
+time_modified: 2024-10-03T08:37:42-04:00
 time_created: 2024-09-04T21:03:20-04:00
 ---
 # Distributed Training
@@ -54,3 +54,14 @@ Split by layer
 - [ ] [Multi-Datacenter Training: OpenAI's Ambitious Plan To Beat Google's Infrastructure](https://www.semianalysis.com/p/multi-datacenter-training-openais?%2F=)
 
 - [ ] [Arthur Douillard on X: "@dylan522p You may want to read into the latest advance of dist/fed learning for LLMs, e.g. DiLoCo, OpenDiLoCo, Flower. You could summarize those as the Branch-Train-Merge you mention, but on steroids. https://t.co/MrRrIOkj8A" / X](https://x.com/Ar_Douillard/status/1831307367171952838)
+
+
+
+
+
+
+
+## Links
+- [ ] [Distributed Training Of Deep Learning Models : Part \~ 1](https://vaibhawvipul.github.io/2024/09/29/Distributed-Training-of-Deep-Learning-models-Part-~-1.html) #distributed
+- [ ] [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html) #distributed 
+- [ ] [Self contained example of how pipeline parallel works (AFAB and 1F1B) in 200 LOC · GitHub](https://gist.github.com/3outeille/a3d4d91bb07af64c8f33d5aaee5145fe)

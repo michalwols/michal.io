@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
 
 
+
     Component.DesktopOnly(Component.Explorer({folderDefaultState: 'open'})),
     Component.Darkmode(),
   ],
