@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-02T15:03:08-04:00
+time_modified: 2024-10-03T21:05:16-04:00
 time_created: 2024-08-23T21:53:43-04:00
 ---
 
@@ -68,6 +68,8 @@ time_created: 2024-08-23T21:53:43-04:00
 ## muP
 
 [x.com](https://x.com/AiEleuther/status/1838209774002864330)
+
+- [ ] [The Practitioner's Guide to the Maximal Update Parameterization | EleutherAI Blog](https://blog.eleuther.ai/mutransfer/)
 
 
 

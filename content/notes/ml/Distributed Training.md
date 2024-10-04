@@ -1,8 +1,8 @@
 ---
-time_modified: 2024-10-03T08:37:42-04:00
+time_modified: 2024-10-03T23:28:40-04:00
 time_created: 2024-09-04T21:03:20-04:00
 ---
-# Distributed Training
+
 
 [LLM-Training-Puzzles/Distributed.ipynb at main · srush/LLM-Training-Puzzles · GitHub](https://github.com/srush/LLM-Training-Puzzles/blob/main/Distributed.ipynb)
 
@@ -33,6 +33,12 @@ Split by layer
 
 - [ ] [How Fully Sharded Data Parallel (FSDP) works? - YouTube](https://www.youtube.com/watch?v=By_O0k102PY)
 - [ ] [Lecture 12 (Part2): Maximize GPU Utilization - YouTube](https://www.youtube.com/watch?v=v1ekwGFksrY)
+
+
+## Torch FSDP (Fully Sharded Data Parallel)
+
+- [ ] [torchtitan/docs/fsdp.md at main · pytorch/torchtitan · GitHub](https://github.com/pytorch/torchtitan/blob/main/docs/fsdp.md)
+
 ## DeepSpeed
 - [ ] [Training Overview and Features - DeepSpeed](https://www.deepspeed.ai/training/#features)
 

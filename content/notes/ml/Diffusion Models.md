@@ -1,4 +1,10 @@
-# Diffusion Models
+---
+time_modified: 2024-10-03T13:38:10-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
+
+
+- [ ] [Perspectives on diffusion – Sander Dieleman](https://sander.ai/2023/07/20/perspectives.html)
 
 
 [The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion/)

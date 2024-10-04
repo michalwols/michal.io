@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-03T21:04:54-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 # SQLite
 
 
@@ -21,3 +25,8 @@ https://stackoverflow.com/questions/52142645/how-to-improve-sqlite-insert-perfor
 ### Cross Database Joins
 
 - [Cross-database queries in SQLite (and weeknotes)](https://simonwillison.net/2021/Feb/21/cross-database-queries/)
+
+
+## Vector Search
+
+- [ ] [Hybrid full-text search and vector search with SQLite | Alex Garcia's Blog](https://alexgarcia.xyz/blog/2024/sqlite-vec-hybrid-search/index.html)

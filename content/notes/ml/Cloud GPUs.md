@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-01T22:49:57-04:00
+time_modified: 2024-10-03T21:04:47-04:00
 time_created: 2024-09-24T09:29:45-04:00
 ---
 
@@ -48,6 +48,7 @@ time_created: 2024-09-24T09:29:45-04:00
 - [ ] [Explore – Replicate](https://replicate.com/explore)
 - [ ] [Model library | Baseten](https://www.baseten.co/library/)
 - [ ] [Inference Service by Nebius AI Studio](https://nebius.ai/services/studio-inference-service)
+- [ ] [Explore – Replicate](https://replicate.com/explore)
 
 ### LLM Inference Comparison
 
@@ -55,12 +56,8 @@ time_created: 2024-09-24T09:29:45-04:00
 	- [ ] [LLM API Provider Leaderboard | Artificial Analysis](https://artificialanalysis.ai/leaderboards/providers)
 
 
-
-
-
 ## Tools
 - [ ] [Installation — SkyPilot documentation](https://skypilot.readthedocs.io/en/latest/getting-started/installation.html#installation)
-
 
 
 ## Other

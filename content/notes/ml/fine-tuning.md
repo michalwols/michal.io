@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-03T23:19:05-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 
 # Fine Tuning / Transfer Learning
 
@@ -17,6 +21,6 @@
 - [[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 - [[2307.05695] Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)
 
-#### Papers
+## Papers
 
 - [[2304.04947] Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://arxiv.org/abs/2304.04947)

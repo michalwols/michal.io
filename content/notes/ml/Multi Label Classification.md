@@ -1,4 +1,7 @@
-# Multi Label Classification
+---
+time_modified: 2024-10-03T19:40:35-04:00
+time_created: 2023-12-09T01:05:39-05:00
+---
 
 
 - [GitHub - Alibaba-MIIL/ML_Decoder: Official PyTorch implementation of "ML-Decoder: Scalable and Versatile Classification Head" (2021)](https://github.com/Alibaba-MIIL/ML_Decoder)
