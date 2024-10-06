@@ -1,9 +1,26 @@
 ---
-time_modified: 2024-10-03T23:29:13-04:00
+time_modified: 2024-10-06T15:17:21-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
+- [ ] [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+- [ ] [Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron Level (Post 1) — AI Alignment Forum](https://www.alignmentforum.org/posts/iGuwZTHWb6DFY3sKB/fact-finding-attempting-to-reverse-engineer-factual-recall)
+- [ ] [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2 — AI Alignment Forum](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite)
+- [ ] [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+- [ ] [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
+- [ ] [Softmax Linear Units](https://transformer-circuits.pub/2022/solu/index.html)
+- [ ] [Concrete Steps to Get Started in Transformer Mechanistic Interpretability — Neel Nanda](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+- [ ] Amazing series from 3Blue1Brown:
+	- [ ] [How large language models work, a visual intro to transformers | Chapter 5, Deep Learning - YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M)
+	- [ ] [[Attention in transformers, visually explained | Chapter 6, Deep Learning - YouTube](https://www.youtube.com/watch?v=eMlx5fFNoYc)](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+	- [ ] [How might LLMs store facts | Chapter 7, Deep Learning - YouTube](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
+- [ ] Neel Nanda Transformer Series
+	- [ ] [What is a Transformer? (Transformer Walkthrough Part 1/2) - YouTube](https://youtu.be/bOYE6E8JrtU?si=5JboYdaRBEQ4kRD0)
+	- [ ] [Implementing GPT-2 From Scratch (Transformer Walkthrough Part 2/2) - YouTube](https://youtu.be/dsjUDacBw8o?si=mYdUuzZ_RdLKu_gs)
+	- [ ] [A Walkthrough of A Mathematical Framework for Transformer Circuits - YouTube](https://youtu.be/KV5gbOmHbjU?si=KHB4B7PyQdjYR-Kt)
+
 
 ## Encoder-Decoder
+
 
 T5
 

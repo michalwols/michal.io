@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-03T23:27:28-04:00
+time_modified: 2024-10-06T15:17:27-04:00
 time_created: 2024-10-03T23:15:33-04:00
 ---
 
@@ -12,6 +12,9 @@ time_created: 2024-10-03T23:15:33-04:00
 ### Quantized Optimizers
 
 ### Fused Ops
+
+- [ ] [GitHub - unslothai/unsloth: Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth/tree/main)
+- [ ] [GitHub - linkedin/Liger-Kernel: Efficient Triton Kernels for LLM Training](https://github.com/linkedin/Liger-Kernel)
 
 ### Compile
 

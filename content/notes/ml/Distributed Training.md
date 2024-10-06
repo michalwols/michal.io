@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-03T23:28:40-04:00
+time_modified: 2024-10-04T09:44:16-04:00
 time_created: 2024-09-04T21:03:20-04:00
 ---
 
@@ -21,6 +21,10 @@ Split Tensors
 
 Split by layer
 
+
+## Expert Parallelism for MoEs
+
+
 ## Activation Checkpointing
 
 
@@ -38,6 +42,16 @@ Split by layer
 ## Torch FSDP (Fully Sharded Data Parallel)
 
 - [ ] [torchtitan/docs/fsdp.md at main · pytorch/torchtitan · GitHub](https://github.com/pytorch/torchtitan/blob/main/docs/fsdp.md)
+
+
+![[Pasted image 20241004082004.png]]
+
+
+
+### Device Mesh
+
+
+![[Pasted image 20241004081840.png]]
 
 ## DeepSpeed
 - [ ] [Training Overview and Features - DeepSpeed](https://www.deepspeed.ai/training/#features)
@@ -62,7 +76,7 @@ Split by layer
 - [ ] [Arthur Douillard on X: "@dylan522p You may want to read into the latest advance of dist/fed learning for LLMs, e.g. DiLoCo, OpenDiLoCo, Flower. You could summarize those as the Branch-Train-Merge you mention, but on steroids. https://t.co/MrRrIOkj8A" / X](https://x.com/Ar_Douillard/status/1831307367171952838)
 
 
-
+#### Async SGD
 
 
 

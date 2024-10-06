@@ -1,9 +1,15 @@
+---
+time_modified: 2024-10-05T21:36:16-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 # Model Compression
 
 
 - [DeepSparse](https://github.com/neuralmagic/deepsparse)
   - [ResNet-50 on CPUs: Sparsifying for Better Performance](https://neuralmagic.com/blog/benchmark-resnet50-with-deepsparse/?utm_campaign=Social&utm_content=217592900&utm_medium=social&utm_source=twitter&hss_channel=tw-997536616481722369)
 - [GitHub - open-mmlab/mmrazor: OpenMMLab Model Compression Toolbox and Benchmark.](https://github.com/open-mmlab/mmrazor)
+
+- [ ] [GitHub - microsoft/VPTQ: VPTQ, A Flexible and Extreme low-bit quantization algorithm](https://github.com/microsoft/VPTQ)
 
 ## Quantization
 

@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-03T13:36:22-04:00
+time_modified: 2024-10-04T13:21:29-04:00
 time_created: 2024-10-03T10:44:29-04:00
 ---
 
@@ -20,6 +20,10 @@ time_created: 2024-10-03T10:44:29-04:00
 
 - [ ] [\[2310.13355\] SILC: Improving Vision Language Pretraining with Self-Distillation](https://arxiv.org/abs/2310.13355)
 	- [ ] [GitHub - google-research/silc: \[ECCV 2024\] Official Release of SILC: Improving vision language pretraining with self-distillation](https://github.com/google-research/silc)
+
+## Improving Representation
+
+- [ ] [\[2410.02746\] Contrastive Localized Language-Image Pre-Training](https://arxiv.org/abs/2410.02746)
 
 
 ## Uses of CLIP

@@ -1,10 +1,13 @@
 ---
-time_modified: 2024-10-03T23:28:28-04:00
+time_modified: 2024-10-05T10:04:35-04:00
 time_created: 2024-09-25T20:58:02-04:00
 ---
+#transformers 
 
 - [ ] [Long-Context LLM Extension - YouTube](https://www.youtube.com/watch?v=dc4chADushM)
 - [ ] [Everything About Long Context Fine-tuning](https://huggingface.co/blog/wenbopan/long-context-fine-tuning)
+
+
 
 ## RoPE Expansion
 
@@ -32,3 +35,21 @@ time_created: 2024-09-25T20:58:02-04:00
 ![[Pasted image 20241003221622.png]]
 
 ![[Pasted image 20241003221906.png]]
+
+
+[GitHub - princeton-nlp/ProLong: Homepage for ProLong (Princeton long-context language models) and paper "How to Train Long-Context Language Models (Effectively)"](https://github.com/princeton-nlp/ProLong)
+
+[x.com](https://x.com/_awettig/status/1842236764607431110)
+[x.com](https://x.com/_awettig/status/1842236764607431110)
+
+
+
+## Longformer
+
+## Linformer
+
+## Reformer
+
+## Blockwise Attention
+
+## Adaptive Attention Span

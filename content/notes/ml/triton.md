@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-06T15:17:27-04:00
+time_created: 2024-09-17T22:41:56-04:00
+---
 
 - [ ] [YouTube](https://youtu.be/njgow_zaJMw?si=-IOIfiVfy3_LIr1Y) triton internals
 - [ ] 

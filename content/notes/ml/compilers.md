@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-04T00:01:54-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 # Machine Learning Compilers
 
 
@@ -28,6 +32,7 @@ https://locust.io/
 
 ## Further Reading
 
-- [Why are ML Compilers so Hard?](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/)
-- [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
+- [ ] [Why are ML Compilers so Hard?](https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/)
+- [ ] [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
+- [ ] [DL Compiler Mini-Summit at PyTorch Conference 2024 - YouTube](https://www.youtube.com/playlist?list=PL_lsbAsL_o2DyFOVyBzDS5scLfUotrG52)
 
