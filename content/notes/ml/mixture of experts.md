@@ -1,8 +1,16 @@
 ---
-time_modified: 2024-10-09T10:38:11-04:00
+time_modified: 2024-10-09T12:23:32-04:00
 time_created: 2024-04-21T18:58:55-04:00
 ---
+
 #moe
+
+## TLDR
+1. Better models for less compute (larger capacity models under same compute budget)
+2. Best for batched inference (server or offline)1
+3. Balanced Routing is important, otherwise get stragglers, memory balance issues and dead experts
+4. Most models use MoE layers in FFNs (token level feed forward networks)
+
 
 - [ ] [Mixture of Experts Explained](https://huggingface.co/blog/moe)
 - [ ] [\[M2L 2024\] Mixture of Experts - Diego de Las Casas (Mistral AI)- YouTube](https://youtu.be/ayguaRDBkgQ?si=ZO9dUXX24xjOef58) - Great lecture from Mistal team, goes into details, most of the notes here are from that talk
@@ -27,9 +35,19 @@ Set a max capacity for each expert **C**,  any inputs to the expert below **C** 
 
 Thanks to **residual connections** the dropped inputs are not completely dropped from the network
 ![[Screenshot 2024-10-09 at 10.11.39 AM.png]]
-### Token
 
-### Expert
+**NOTE: Expert Capacity leaks information in causal models since it uses batch level statistics**
+
+![[Pasted image 20241009110800.png]]
+### Token Choice
+
+Each token sent to K experts
+
+### Expert Choice
+
+Each expert picks N tokens
+
+**leaks information for decoder models**
 
 
 ## Gating
@@ -83,12 +101,33 @@ Can be combined with **Data Parallelism**, by replicating non expert layers on a
 
 ## Inference
 
+**Decouples processing speed from parameter count** - allows us to use really large capacity models without having to do as much compute at inference time
 
-## Mixture of Depth
+Adds some overhead vs dense model of the same size due to communication (about 20% slower)
+
+Reduces compute to memory ratio (less compute with same amount of memory compared to dense models), meaning it's more likely to be memory bound than dense models.
+
+Need **large batch size** at inference to balance compute and memory
+
+**More efficient for batch processing and other compute intense tasks like prefill, speculative decoding**
+
+Larger KV Cache since more FFN parameters
+
+## Training
+
+**Tend to perform better for the same training budget**
+
+Number of experts tends to increase quality (8-64 tends to be the best tradeoff)
+
+
+## Tweaks
+### Mixture of Depth
 
 use expert routing and only update the top K tokens (forwarding the remaining tokens). use routing weight to modulate outputs of the tokens (to make it differentiable)
 
+### Granularity
 
+Use experts of different sizes
 
 ## MoE LLMs / Transformers
 
@@ -104,6 +143,9 @@ Usually MoE layer for feed forward module.
 
 Replaced FFN layers with MoEs, 8 experts, with 2 tokens routed to each expert. Leads to ~14B active parameters per token
 
+#### Deepseek v2
+#### [OLMoE](https://arxiv.org/abs/2409.02060)
+
 ### Attention MoE
 
 Not usually done with Attention layers because attention requires access to all tokens.
@@ -113,12 +155,12 @@ Not usually done with Attention layers because attention requires access to all 
 **SwitchHead**  - routes values
 
 
-
-
-
-
-
 ## MoEs in Vision
+
+
+### Sparse MoE
+
+### Soft MoE
 
 
 
