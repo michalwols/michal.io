@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-05T10:04:35-04:00
+time_modified: 2024-10-08T21:41:08-04:00
 time_created: 2024-09-25T20:58:02-04:00
 ---
 #transformers 
@@ -53,3 +53,7 @@ time_created: 2024-09-25T20:58:02-04:00
 ## Blockwise Attention
 
 ## Adaptive Attention Span
+
+
+## Infini-Attention
+- [ ] [A failed experiment: Infini-Attention, and why we should keep trying?](https://huggingface.co/blog/infini-attention)

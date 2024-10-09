@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-09T09:57:28-04:00
+time_created: 2024-09-09T16:17:47-04:00
+---
 - [ ] [GitHub - autogluon/tabrepo](https://github.com/autogluon/tabrepo)
 
 
@@ -13,3 +17,8 @@
 	- [GitHub - sb-ai-lab/sketchboost-paper: Repository to reproduce SketchBoost paper experiments](https://github.com/sb-ai-lab/SketchBoost-paper)
 
 - [GitHub - pyg-team/pytorch-frame: Tabular Deep Learning Library for PyTorch](https://github.com/pyg-team/pytorch-frame)
+
+
+
+## LLMs
+- [ ] [\[2410.04739\] TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/abs/2410.04739)

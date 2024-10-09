@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-06T15:17:21-04:00
+time_modified: 2024-10-06T22:18:32-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
 - [ ] [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
