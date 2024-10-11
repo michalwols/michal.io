@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-04T13:21:29-04:00
+time_modified: 2024-10-11T11:34:11-04:00
 time_created: 2024-10-03T10:44:29-04:00
 ---
 
@@ -32,6 +32,7 @@ time_created: 2024-10-03T10:44:29-04:00
 ### Classification
 
 - [ ] [ECCV Poster uCAP: An Unsupervised Prompting Method for Vision-Language Models](https://eccv.ecva.net/virtual/2024/poster/2005#:~:text=These%20prompts%20are%20typically%20manually,only%20unlabeled%20in%2Ddomain%20images.)
+- [ ] [\[2410.05270\] Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia](https://arxiv.org/abs/2410.05270)
 
 
 ## Data Curation

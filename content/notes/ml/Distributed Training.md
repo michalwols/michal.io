@@ -1,11 +1,17 @@
 ---
-time_modified: 2024-10-04T09:44:16-04:00
+time_modified: 2024-10-11T09:25:12-04:00
 time_created: 2024-09-04T21:03:20-04:00
 ---
+- [ ] [Slaying OOMs with PyTorch FSDP and torchao - YouTube](https://www.youtube.com/watch?v=UvRl4ansfCg)
+
+- [ ] [LLM-Training-Puzzles/Distributed.ipynb at main · srush/LLM-Training-Puzzles · GitHub](https://github.com/srush/LLM-Training-Puzzles/blob/main/Distributed.ipynb)
 
 
-[LLM-Training-Puzzles/Distributed.ipynb at main · srush/LLM-Training-Puzzles · GitHub](https://github.com/srush/LLM-Training-Puzzles/blob/main/Distributed.ipynb)
-
+- [ ] DeepSpeed
+- [ ] Torch FSDP
+- [ ] [GitHub - pytorch/torchtitan: A native PyTorch Library for large model training](https://github.com/pytorch/torchtitan)
+- [ ] Fairscale
+- [ ] Megatron
 
 ## Data Parallel
 

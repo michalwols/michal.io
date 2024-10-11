@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-09T12:23:32-04:00
+time_modified: 2024-10-11T11:36:22-04:00
 time_created: 2024-04-21T18:58:55-04:00
 ---
 
@@ -126,8 +126,17 @@ Number of experts tends to increase quality (8-64 tends to be the best tradeoff)
 use expert routing and only update the top K tokens (forwarding the remaining tokens). use routing weight to modulate outputs of the tokens (to make it differentiable)
 
 ### Granularity
+[\[2402.07871\] Scaling Laws for Fine-Grained Mixture of Experts](https://arxiv.org/abs/2402.07871)
 
-Use experts of different sizes
+### Shared Experts
+
+Have a few experts that process all tokens, allowing the routed ones to specialize more
+
+### Batch Prioritized Routing
+
+Drop tokens with small gating weights
+
+![[Pasted image 20241009200653.png]]
 
 ## MoE LLMs / Transformers
 
@@ -165,4 +174,5 @@ Not usually done with Attention layers because attention requires access to all 
 
 
 - [ ] [GitHub - databricks/megablocks](https://github.com/databricks/megablocks)
-- [ ] [YouTube](https://www.youtube.com/watch?v=1c56wxv00hI)
+- [ ] [Training MoEs at Scale with PyTorch - Mihir Patel & Brian Chu, Databricks - YouTube](https://www.youtube.com/watch?v=1c56wxv00hI)
+- [ ] [\[2407.06204\] A Survey on Mixture of Experts](https://arxiv.org/abs/2407.06204)

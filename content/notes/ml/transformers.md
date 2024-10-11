@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-09T16:41:06-04:00
+time_modified: 2024-10-11T11:36:11-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
 - [ ] [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
@@ -71,7 +71,7 @@ ViT (MAE)
 
 ---
 
-# Transformers and LLMs (Large Language Models) and 
+# Transformers and LLMs (Large Language Models) 
 
 #ml/nlp/llm
 
@@ -86,6 +86,7 @@ ViT (MAE)
 
 ### RoPE
 - [ ] [Rotary Embeddings: A Relative Revolution | EleutherAI Blog](https://blog.eleuther.ai/rotary-embeddings/)
+- [ ] [\[2410.06205\] Round and Round We Go! What makes Rotary Positional Encodings useful?](https://arxiv.org/abs/2410.06205)
 
 ### Embedding Tables
 

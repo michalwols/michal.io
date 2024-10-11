@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-03T23:01:53-04:00
+time_modified: 2024-10-11T11:36:21-04:00
 time_created: 2024-09-25T21:08:25-04:00
 ---
 #inference #llm 
@@ -62,6 +62,8 @@ Use bf16, float8, int8 or smaller dtypes like int4 to save memory
 ## Speculative Decoding
 
 
+[Dynamic Speculative Decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
+
 
 ## Prefix Caching
 
@@ -103,3 +105,5 @@ Predict best (speed / cost / expert) model for given request and route based on 
 - [ ] [Understanding the LLM Inference Workload - Mark Moyou, NVIDIA - YouTube](https://www.youtube.com/watch?v=z2M8gKGYws4)
 - [ ] [Mastering LLM Techniques: Inference Optimization | NVIDIA Technical Blog](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - [ ] [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/)
+- [ ] [\[2402.16363\] LLM Inference Unveiled: Survey and Roofline Model Insights](https://arxiv.org/abs/2402.16363)
+- [ ] [\[2407.12391\] LLM Inference Serving: Survey of Recent Advances and Opportunities](https://arxiv.org/abs/2407.12391)
