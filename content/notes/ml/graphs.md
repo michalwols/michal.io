@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-16T14:35:14-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 
 [PyG Documentation — pytorch\_geometric documentation](https://pytorch-geometric.readthedocs.io/en/latest/)
 
@@ -12,4 +16,4 @@
 ## Relational Deep Learning
 
 - [GitHub - snap-stanford/relbench: RelBench: Relational Deep Learning Benchmark](https://github.com/snap-stanford/relbench/tree/main)
-- 
+- [GitHub - pyg-team/pytorch-frame: Tabular Deep Learning Library for PyTorch](https://github.com/pyg-team/pytorch-frame)

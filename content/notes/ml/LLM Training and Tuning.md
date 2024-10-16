@@ -1,7 +1,9 @@
 ---
-time_modified: 2024-10-06T22:18:39-04:00
+time_modified: 2024-10-13T01:44:12-04:00
 time_created: 2024-10-03T23:15:33-04:00
 ---
+
+- [ ] [Common LLM Settings - Google Sheets](https://docs.google.com/spreadsheets/d/14vbBbuRMEHoqeuMHkTfw3uiZVmyXNuoSp8s-aHvfvZk/edit?gid=0#gid=0)
 
 - [ ] [torchtune: Easy and Accessible Finetuning in Native PyTorch - Evan Smothers, Meta - YouTube](https://www.youtube.com/watch?v=43X9E25-Qg0)
 

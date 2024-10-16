@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-16T10:00:26-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 
 - [retnet](https://github.com/microsoft/unilm/tree/master/retnet)
 
@@ -15,3 +19,31 @@
 
 
 ## Mamba
+
+
+## Mamba2
+
+
+## Codestral Mamba (Mistral)
+
+## H3
+
+## Zamba
+
+## Zamba2
+- [ ] [Zyphra](https://www.zyphra.com/post/zamba2-7b)
+![[Pasted image 20241014203628.png]]
+
+
+## Jamba
+
+
+## Samba
+
+## minGRU
+
+## xLSTM
+
+
+## Hawk and Griffin
+- [ ] [Fetching Title#mdig](https://www.youtube.com/watch?v=GfAT2zkB6-U)

@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-08T10:39:44-04:00
+time_modified: 2024-10-16T14:35:06-04:00
 time_created: 2024-10-08T10:03:15-04:00
 ---
 
@@ -15,3 +15,6 @@ time_created: 2024-10-08T10:03:15-04:00
 - [ ] Correlations
 	- [ ] Tennis player
 - [ ] Compression
+
+
+- [ ] [ml-engineering/training/dtype.md at master · stas00/ml-engineering · GitHub](https://github.com/stas00/ml-engineering/blob/master/training/dtype.md)
